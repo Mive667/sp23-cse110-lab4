@@ -73,3 +73,19 @@
 15. when faced with comparison of data from different type, `==` will convert variable's types (based on some rules) to conform the type and do comparison later.
     
     whereas `===` do comparison without any type conversion
+
+16. [part2-question16.js](./part2-question16.js)
+
+17. `[ 2, 4, 6 ]`
+    An array`[1,2,3]` and function`doSomething` are passed as two arguments into function `modifyArray`. Inside the `modifyArray`, every numbers in `[1,2,3]` is modified by the 2nd argument `doSomething`, and a new array is returned.
+
+18. [part2-question18.js](./part2-question18.js)
+
+19. 
+
+``` JavaScript
+1
+4
+3
+2
+```
