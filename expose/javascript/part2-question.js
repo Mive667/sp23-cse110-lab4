@@ -5,7 +5,7 @@ function printNums() {
     setTimeout(function() {console.log(2);},
                1000);
     setTimeout(function() {console.log(3);},
-               0);
+               0); // next event cycle
     console.log(4);
 }
 
