@@ -1,0 +1,2 @@
+1. in line 11, 2 arguments `num1` and `num2` are taken into as string type, so when they are worked with `+` operator, these 2 string are concatenated, instead of doing mathematical operation.
+2. Change the type of 2 arguments into number to fix this bug.
